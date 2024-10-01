@@ -1,0 +1,6 @@
+Produto,Quantidade,Valor,Data da Venda,Cliente,Categoria
+Produto A,10,200.0,2024-09-01,Cliente 1,Eletrônicos
+Produto B,5,500.0,2024-09-03,Cliente 2,Roupas
+Produto C,2,150.0,2024-09-02,Cliente 3,Alimentos
+Produto A,8,200.0,2024-09-04,Cliente 4,Eletrônicos
+Produto B,3,500.0,2024-09-05,Cliente 5,Roupas
